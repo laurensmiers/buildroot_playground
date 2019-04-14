@@ -1,0 +1,4 @@
+config BR2_PACKAGE_HELLOWORLD
+       bool "helloworld-app"
+       help
+        A classic C hello-world application

@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_buildroot_playground_PATH/package/helloworld/Config.in"
